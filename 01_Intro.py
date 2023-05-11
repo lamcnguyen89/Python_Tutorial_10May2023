@@ -32,3 +32,5 @@ print('Hi ', name + "!")
 
 favoriteColor = input('What is your favorite color? ')
 print(name + " likes the color " + favoriteColor)
+
+
