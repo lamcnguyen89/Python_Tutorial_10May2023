@@ -12,7 +12,8 @@ path = Path("Ecommerce01")
 if not path.exists():
     path.mkdir() # Makes a new folder
 
-path.rmdir() # Removes a Directory
+if path.exists():
+    path.rmdir() # Removes a Directory
 
 
 path = Path()
