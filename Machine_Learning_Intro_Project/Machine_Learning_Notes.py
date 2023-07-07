@@ -6,7 +6,7 @@
     #5. Train the model
     #6. Make predictions
     #7. Evaluate and improve
-
+# Useless Comment
 # Libraries and Tools for machine learning:
     # Numpy: Provides a multidimensional array
     # Pandas: Data Analysis Library that provides a concept called dataframes. Dataframes are like excel spreadsheets with rows and columns.
